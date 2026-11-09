@@ -76,3 +76,4 @@ npm start
 └── public/
     └── images/                                 # 16 authentic downloaded logos and photos
 ```
+# INAS
